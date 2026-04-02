@@ -1,6 +1,5 @@
 # vestidos-y-moda-
 moda y un poco de todo  
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8">
